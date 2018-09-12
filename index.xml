@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Causally Regularized Learning with Agnostic Data Selection Bias</title>
+      <link>https://Silver-Shen.github.io/publication/crlr/</link>
+      <pubDate>Wed, 12 Sep 2018 17:25:51 +0800</pubDate>
+      
+      <guid>https://Silver-Shen.github.io/publication/crlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://Silver-Shen.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0800</pubDate>

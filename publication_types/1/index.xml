@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 17:25:51 +0800</lastBuildDate>
     
 	<atom:link href="https://Silver-Shen.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://Silver-Shen.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
+      <title>Causally Regularized Learning with Agnostic Data Selection Bias</title>
+      <link>https://Silver-Shen.github.io/publication/crlr/</link>
+      <pubDate>Wed, 12 Sep 2018 17:25:51 +0800</pubDate>
       
-      <guid>https://Silver-Shen.github.io/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>https://Silver-Shen.github.io/publication/crlr/</guid>
+      <description></description>
     </item>
     
   </channel>
