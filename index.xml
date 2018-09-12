@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zheyan(Silver) Shen on Zheyan(Silver) Shen</title>
-    <link>https://github.com/Silver-Shen/Silver-Shen.github.io/</link>
+    <link>https://Silver-Shen.github.io/</link>
     <description>Recent content in Zheyan(Silver) Shen on Zheyan(Silver) Shen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
-    <atom:link href="/Silver-Shen/Silver-Shen.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://github.com/Silver-Shen/Silver-Shen.github.io/privacy/</link>
+      <link>https://Silver-Shen.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://github.com/Silver-Shen/Silver-Shen.github.io/privacy/</guid>
+      <guid>https://Silver-Shen.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://github.com/Silver-Shen/Silver-Shen.github.io/talk/example-talk/</link>
+      <link>https://Silver-Shen.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://github.com/Silver-Shen/Silver-Shen.github.io/talk/example-talk/</guid>
+      <guid>https://Silver-Shen.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://github.com/Silver-Shen/Silver-Shen.github.io/project/deep-learning/</link>
+      <link>https://Silver-Shen.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://github.com/Silver-Shen/Silver-Shen.github.io/project/deep-learning/</guid>
+      <guid>https://Silver-Shen.github.io/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -50,19 +50,19 @@
     
     <item>
       <title>External Project</title>
-      <link>https://github.com/Silver-Shen/Silver-Shen.github.io/project/example-external-project/</link>
+      <link>https://Silver-Shen.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://github.com/Silver-Shen/Silver-Shen.github.io/project/example-external-project/</guid>
+      <guid>https://Silver-Shen.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://github.com/Silver-Shen/Silver-Shen.github.io/post/getting-started/</link>
+      <link>https://Silver-Shen.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://github.com/Silver-Shen/Silver-Shen.github.io/post/getting-started/</guid>
+      <guid>https://Silver-Shen.github.io/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -247,20 +247,20 @@ git submodule update --init --recursive
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://github.com/Silver-Shen/Silver-Shen.github.io/publication/person-re-identification/</link>
+      <link>https://Silver-Shen.github.io/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
       
-      <guid>https://github.com/Silver-Shen/Silver-Shen.github.io/publication/person-re-identification/</guid>
+      <guid>https://Silver-Shen.github.io/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>https://github.com/Silver-Shen/Silver-Shen.github.io/publication/clothing-search/</link>
+      <link>https://Silver-Shen.github.io/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
       
-      <guid>https://github.com/Silver-Shen/Silver-Shen.github.io/publication/clothing-search/</guid>
+      <guid>https://Silver-Shen.github.io/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
